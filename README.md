@@ -1,5 +1,5 @@
 # dec-tree
-
+A Symphony of Decision Trees, Random Forests, and AdaBoost.
 ## Techniques Used
 - Recursive Splitting
 - Stopping Conditions
